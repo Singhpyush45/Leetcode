@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Singhpyush45/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Singhpyush45/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Singhpyush45/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Singhpyush45/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
