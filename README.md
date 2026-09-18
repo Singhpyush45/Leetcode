@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Singhpyush45/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
