@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Singhpyush45/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Singhpyush45/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Singhpyush45/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Singhpyush45/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Singhpyush45/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Singhpyush45/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
