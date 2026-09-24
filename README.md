@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Singhpyush45/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Singhpyush45/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Singhpyush45/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
