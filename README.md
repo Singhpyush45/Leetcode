@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Singhpyush45/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
 |  |
