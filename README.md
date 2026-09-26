@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Singhpyush45/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Singhpyush45/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Singhpyush45/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Singhpyush45/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Singhpyush45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Singhpyush45/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0162-find-peak-element](https://github.com/Singhpyush45/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Singhpyush45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
