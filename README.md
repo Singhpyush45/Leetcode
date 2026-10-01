@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singhpyush45/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Singhpyush45/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Singhpyush45/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Singhpyush45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Singhpyush45/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Singhpyush45/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
