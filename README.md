@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singhpyush45/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Singhpyush45/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Singhpyush45/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Singhpyush45/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
