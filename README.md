@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Singhpyush45/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Singhpyush45/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Singhpyush45/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Singhpyush45/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Singhpyush45/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
