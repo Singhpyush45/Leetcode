@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Singhpyush45/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Singhpyush45/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
