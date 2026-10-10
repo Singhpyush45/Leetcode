@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Singhpyush45/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/Singhpyush45/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Singhpyush45/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Singhpyush45/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Singhpyush45/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/Singhpyush45/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Singhpyush45/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
