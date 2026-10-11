@@ -1,30 +1,21 @@
 class Solution {
 public:
-    vector<int> fairCandySwap(vector<int>& aliceSizes, vector<int>& bobSizes) {
-       int n=aliceSizes.size();
-       int m=bobSizes.size();
-       int Asum=0;
-       int Bsum=0;
-       int mid =0;
-       vector<int>ans;
-       for(int i=0;i<n;i++){
-        Asum+=aliceSizes[i];
-       }
-        for(int i=0;i<m;i++){
-        Bsum+=bobSizes[i];
-       }
-       mid=(Asum-Bsum)/2;
-      
-        for (int i = 0; i < aliceSizes.size(); i++) {
-            for (int j = 0; j < bobSizes.size(); j++) {
-                if (aliceSizes[i] - bobSizes[j] == mid) {
+    vector<int> fairCandySwap(vector<int>& aliceSizes,vector<int>& bobSizes) {
+        int sumA = 0, sumB = 0;
+
+        for(int x : aliceSizes) sumA += x;
+        for(int x : bobSizes) sumB += x;
+
+        int diff = (sumB - sumA) / 2;
+
+        for(int i = 0; i < aliceSizes.size(); i++) {
+            for(int j = 0; j < bobSizes.size(); j++) {
+                if(bobSizes[j] - aliceSizes[i] == diff) {
                     return {aliceSizes[i], bobSizes[j]};
                 }
             }
         }
 
         return {};
-
-
     }
 };
