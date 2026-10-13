@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Singhpyush45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Singhpyush45/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Singhpyush45/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
@@ -271,4 +272,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Singhpyush45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Singhpyush45/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
