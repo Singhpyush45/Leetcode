@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Singhpyush45/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Singhpyush45/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Singhpyush45/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Singhpyush45/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singhpyush45/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
