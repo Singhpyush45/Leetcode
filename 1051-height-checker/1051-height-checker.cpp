@@ -6,10 +6,12 @@ public:
         vector<int>result(heights);
         sort(result.begin(),result.end());
         for(int i=0;i<n;i++){
-            if(heights[i]!=result[i]){
-               ans++;
+            if(heights[i]==result[i]){
+              
             }
-           
+            else{
+                ans++;
+            }
         }
         return ans;
     }
