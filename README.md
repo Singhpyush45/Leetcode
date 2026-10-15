@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0412-fizz-buzz](https://github.com/Singhpyush45/Leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Singhpyush45/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Singhpyush45/Leetcode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Singhpyush45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Singhpyush45/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Singhpyush45/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Singhpyush45/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Singhpyush45/Leetcode/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Singhpyush45/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
