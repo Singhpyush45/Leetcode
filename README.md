@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Singhpyush45/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Singhpyush45/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Singhpyush45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Singhpyush45/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
