@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Singhpyush45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Singhpyush45/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Singhpyush45/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0383-ransom-note](https://github.com/Singhpyush45/Leetcode/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Singhpyush45/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Singhpyush45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Singhpyush45/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Singhpyush45/Leetcode/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Singhpyush45/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Singhpyush45/Leetcode/tree/master/1108-defanging-an-ip-address) |
