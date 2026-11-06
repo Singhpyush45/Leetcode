@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Singhpyush45/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Singhpyush45/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/Singhpyush45/Leetcode/tree/main/0016-3sum-closest/) | Medium |
@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Singhpyush45/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Singhpyush45/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Singhpyush45/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Singhpyush45/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Singhpyush45/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Singhpyush45/Leetcode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -67,8 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Singhpyush45/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singhpyush45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -80,10 +81,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Singhpyush45/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Singhpyush45/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Singhpyush45/Leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0009-palindrome-number](https://github.com/Singhpyush45/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Singhpyush45/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Singhpyush45/Leetcode/tree/main/0050-powx-n/) | Medium |
@@ -101,8 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Singhpyush45/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Singhpyush45/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Singhpyush45/Leetcode/tree/master/0035-search-insert-position) |
@@ -126,8 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Singhpyush45/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Singhpyush45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Singhpyush45/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
@@ -136,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Singhpyush45/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Singhpyush45/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/Singhpyush45/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Singhpyush45/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -152,32 +154,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Singhpyush45/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Singhpyush45/Leetcode/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Singhpyush45/Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Singhpyush45/Leetcode/tree/main/2164-sort-even-and-odd-indices-independently/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/Singhpyush45/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Singhpyush45/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Singhpyush45/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Singhpyush45/Leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/Singhpyush45/Leetcode/tree/master/0383-ransom-note) |
 | [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Singhpyush45/Leetcode/tree/main/1356-sort-integers-by-the-number-of-1-bits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Singhpyush45/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Singhpyush45/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0016-3sum-closest](https://github.com/Singhpyush45/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Singhpyush45/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Singhpyush45/Leetcode/tree/master/0027-remove-element) |
@@ -193,12 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Singhpyush45/Leetcode/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Singhpyush45/Leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Singhpyush45/Leetcode/tree/master/0412-fizz-buzz) |
@@ -209,8 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3925-concatenate-array-with-reverse](https://github.com/Singhpyush45/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Singhpyush45/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Singhpyush45/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -224,24 +227,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/Singhpyush45/Leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Singhpyush45/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Singhpyush45/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Singhpyush45/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Singhpyush45/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Singhpyush45/Leetcode/tree/master/0042-trapping-rain-water) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singhpyush45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Singhpyush45/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Singhpyush45/Leetcode/tree/master/0125-valid-palindrome) |
@@ -254,64 +257,64 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Singhpyush45/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Singhpyush45/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Singhpyush45/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Singhpyush45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Singhpyush45/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Singhpyush45/Leetcode/tree/master/0070-climbing-stairs) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Singhpyush45/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/Singhpyush45/Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Singhpyush45/Leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Singhpyush45/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1051-height-checker](https://github.com/Singhpyush45/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Singhpyush45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Singhpyush45/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Singhpyush45/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Singhpyush45/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Singhpyush45/Leetcode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Singhpyush45/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/Singhpyush45/Leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Ternary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Singhpyush45/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
