@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Singhpyush45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,4 +341,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Singhpyush45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
