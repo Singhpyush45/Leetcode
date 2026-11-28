@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Singhpyush45/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Singhpyush45/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Singhpyush45/Leetcode/tree/master/0383-ransom-note) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/Singhpyush45/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Singhpyush45/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Singhpyush45/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Singhpyush45/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Singhpyush45/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Singhpyush45/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/Singhpyush45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Singhpyush45/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Greedy
@@ -335,21 +337,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Singhpyush45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Singhpyush45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Singhpyush45/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Singhpyush45/Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Breadth-First Search
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Singhpyush45/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
